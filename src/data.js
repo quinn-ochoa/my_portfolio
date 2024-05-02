@@ -32,12 +32,12 @@ export const ABOUT_ME = [
 
 export const WORKS = {
   commerce: {
-    title: "E-commerce",
+    title: "E-commerce - L&G Lighting Fixtures",
     description: "To be updated",
     gif: "",
   },
   app: {
-    title: "Movie app",
+    title: "Movie application - WeWatchWhat",
     description: "To be updated",
     gif: "",
   },
