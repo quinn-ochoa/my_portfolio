@@ -29,3 +29,21 @@ export const ABOUT_ME = [
       "Revit, Sketchup, Enscape, AutoCAD, 3Ds max & V-Ray, Bluebeam.",
   },
 ];
+
+export const WORKS = {
+  commerce: {
+    title: "E-commerce",
+    description: "To be updated",
+    gif: "",
+  },
+  app: {
+    title: "Movie app",
+    description: "To be updated",
+    gif: "",
+  },
+  site: {
+    title: "Camping site",
+    description: "To be updated",
+    gif: "",
+  },
+};
