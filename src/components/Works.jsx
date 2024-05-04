@@ -28,7 +28,7 @@ export default function Works(){
                         <div id="tab-content">
                             <h3>{WORKS[selectedWorks].title}</h3>
                             <p>{WORKS[selectedWorks].description}</p>
-                            <div>{WORKS[selectedWorks].gif}</div>
+                            <div id="tab-gif"><img src={WORKS[selectedWorks].gif}/></div>
                         </div>
                     )
                 }
